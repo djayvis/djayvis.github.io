@@ -1,0 +1,13 @@
+# Google Analytics Tracking ID
+google_analytics:
+
+# Default portfolio post
+default_cover_image: images/splash_image.jpg
+default_post_title: Portfolio Item
+
+menu:
+  About: /about
+  Contact: /contact
+  Instagram: https://www.instagram.com
+  LinkedIn: https://www.linkedin.com
+  Facebook: https://www.facebook.com
